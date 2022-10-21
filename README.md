@@ -1,1 +1,1 @@
-# debias-mean-projection
+# Debiasing word embeddings using Mean Projection
