@@ -1,0 +1,276 @@
+w: ammo
+ most-similar-before: ('ammunition', 'rifle', 'pistol')
+ most-similar-after: ('ammunition', 'rifle', 'pistol')
+----------------------------------
+w: course
+ most-similar-before: ('courses', 'well', 'however')
+ most-similar-after: ('courses', 'well', 'however')
+----------------------------------
+w: submarine
+ most-similar-before: ('submarines', 'naval', 'warship')
+ most-similar-after: ('submarines', 'naval', 'warship')
+----------------------------------
+w: abnormal
+ most-similar-before: ('abnormalities', 'abnormally', 'abnormality')
+ most-similar-after: ('abnormalities', 'abnormally', 'abnormality')
+----------------------------------
+w: detail
+ most-similar-before: ('details', 'detailed', 'detailing')
+ most-similar-after: ('details', 'detailed', 'detailing')
+----------------------------------
+w: kirby
+ most-similar-before: ('mario', 'shaw', 'stan')
+ most-similar-after: ('mario', 'shaw', 'stan')
+----------------------------------
+w: benjamin
+ most-similar-before: ('samuel', 'henry', 'william')
+ most-similar-after: ('samuel', 'henry', 'elizabeth')
+----------------------------------
+w: bugs
+ most-similar-before: ('bug', 'insects', 'fixes')
+ most-similar-after: ('bug', 'insects', 'fixes')
+----------------------------------
+w: fraser
+ most-similar-before: ('macdonald', 'campbell', 'mackay')
+ most-similar-after: ('macdonald', 'campbell', 'mackay')
+----------------------------------
+w: servings
+ most-similar-before: ('grams', 'calories', 'ounces')
+ most-similar-after: ('grams', 'calories', 'ounces')
+----------------------------------
+w: archival
+ most-similar-before: ('photographic', 'photographs', 'archiving')
+ most-similar-after: ('photographic', 'photographs', 'archiving')
+----------------------------------
+w: €
+ most-similar-before: ('â', 'eur', '£')
+ most-similar-after: ('â', 'eur', '£')
+----------------------------------
+w: blades
+ most-similar-before: ('blade', 'knives', 'razor')
+ most-similar-after: ('blade', 'knives', 'razor')
+----------------------------------
+w: qualitative
+ most-similar-before: ('quantitative', 'empirical', 'methodology')
+ most-similar-after: ('quantitative', 'empirical', 'methodology')
+----------------------------------
+w: dragged
+ most-similar-before: ('dragging', 'pushed', 'pulled')
+ most-similar-after: ('dragging', 'pushed', 'pulled')
+----------------------------------
+w: quantum
+ most-similar-before: ('physics', 'relativity', 'theory')
+ most-similar-after: ('physics', 'relativity', 'theory')
+----------------------------------
+w: donors
+ most-similar-before: ('donor', 'donations', 'recipients')
+ most-similar-after: ('donor', 'donations', 'recipients')
+----------------------------------
+w: rule
+ most-similar-before: ('rules', 'laws', 'ruling')
+ most-similar-after: ('rules', 'laws', 'ruling')
+----------------------------------
+w: axis
+ most-similar-before: ('axes', 'perpendicular', 'angle')
+ most-similar-after: ('axes', 'perpendicular', 'angle')
+----------------------------------
+w: garcia
+ most-similar-before: ('rodriguez', 'martinez', 'sanchez')
+ most-similar-after: ('rodriguez', 'martinez', 'sanchez')
+----------------------------------
+w: bush
+ most-similar-before: ('obama', 'clinton', 'cheney')
+ most-similar-after: ('obama', 'clinton', 'cheney')
+----------------------------------
+w: arrangements
+ most-similar-before: ('arrangement', 'arranging', 'arranged')
+ most-similar-after: ('arrangement', 'arranging', 'arranged')
+----------------------------------
+w: whale
+ most-similar-before: ('whales', 'shark', 'humpback')
+ most-similar-after: ('whales', 'shark', 'humpback')
+----------------------------------
+w: wrist
+ most-similar-before: ('wrists', 'ankle', 'forearm')
+ most-similar-after: ('wrists', 'ankle', 'forearm')
+----------------------------------
+w: miniature
+ most-similar-before: ('minature', 'mini', 'miniatures')
+ most-similar-after: ('minature', 'mini', 'miniatures')
+----------------------------------
+w: awesome
+ most-similar-before: ('amazing', 'fantastic', 'awsome')
+ most-similar-after: ('amazing', 'fantastic', 'awsome')
+----------------------------------
+w: smile
+ most-similar-before: ('smiles', 'grin', 'smiling')
+ most-similar-after: ('smiles', 'grin', 'smiling')
+----------------------------------
+w: workplace
+ most-similar-before: ('workplaces', 'employee', 'employment')
+ most-similar-after: ('workplaces', 'employee', 'employment')
+----------------------------------
+w: singer
+ most-similar-before: ('vocalist', 'songwriter', 'musician')
+ most-similar-after: ('vocalist', 'songwriter', 'musician')
+----------------------------------
+w: diff
+ most-similar-before: ('hist', 'contribs', 'revision')
+ most-similar-after: ('hist', 'contribs', 'revision')
+----------------------------------
+w: pdf
+ most-similar-before: ('document', 'ppt', 'html')
+ most-similar-after: ('document', 'ppt', 'kb')
+----------------------------------
+w: suspend
+ most-similar-before: ('terminate', 'suspending', 'revoke')
+ most-similar-after: ('terminate', 'suspending', 'revoke')
+----------------------------------
+w: damage
+ most-similar-before: ('damaging', 'damaged', 'caused')
+ most-similar-after: ('damaged', 'damaging', 'caused')
+----------------------------------
+w: referee
+ most-similar-before: ('referees', 'umpire', 'linesman')
+ most-similar-after: ('referees', 'umpire', 'linesman')
+----------------------------------
+w: exploring
+ most-similar-before: ('explore', 'discovering', 'explored')
+ most-similar-after: ('explore', 'discovering', 'explored')
+----------------------------------
+w: rabbit
+ most-similar-before: ('bunny', 'pig', 'rabbits')
+ most-similar-after: ('bunny', 'pig', 'rabbits')
+----------------------------------
+w: ―
+ most-similar-before: ('thu', 'wed', 'badguy')
+ most-similar-after: ('thu', 'wed', 'tue')
+----------------------------------
+w: transport
+ most-similar-before: ('transportation', 'freight', 'transit')
+ most-similar-after: ('transportation', 'freight', 'transit')
+----------------------------------
+w: bookings
+ most-similar-before: ('booking', 'reservations', 'booked')
+ most-similar-after: ('booking', 'reservations', 'booked')
+----------------------------------
+w: marijuana
+ most-similar-before: ('cannabis', 'cocaine', 'heroin')
+ most-similar-after: ('cannabis', 'cocaine', 'heroin')
+----------------------------------
+====================================================================
+
+
+gendered words:
+w: ruth
+ most-similar-before: ('helen', 'esther', 'margaret')
+ most-similar-after: ('helen', 'esther', 'margaret')
+----------------------------------
+w: charlotte
+ most-similar-before: ('raleigh', 'nc', 'atlanta')
+ most-similar-after: ('raleigh', 'atlanta', 'nc')
+----------------------------------
+w: abigail
+ most-similar-before: ('hannah', 'lydia', 'eliza')
+ most-similar-after: ('hannah', 'lydia', 'samuel')
+----------------------------------
+w: sophie
+ most-similar-before: ('julia', 'marie', 'lucy')
+ most-similar-after: ('julia', 'lucy', 'emma')
+----------------------------------
+w: nichole
+ most-similar-before: ('nicole', 'kimberly', 'kayla')
+ most-similar-after: ('nicole', 'kimberly', 'kayla')
+----------------------------------
+w: emma
+ most-similar-before: ('emily', 'lucy', 'sarah')
+ most-similar-after: ('emily', 'sarah', 'lucy')
+----------------------------------
+w: olivia
+ most-similar-before: ('emma', 'rachel', 'kate')
+ most-similar-after: ('rachel', 'emma', 'kate')
+----------------------------------
+w: ava
+ most-similar-before: ('devine', 'zoe', 'isabella')
+ most-similar-after: ('devine', 'isabella', 'zoe')
+----------------------------------
+w: isabella
+ most-similar-before: ('sophia', 'josephine', 'isabel')
+ most-similar-after: ('henry', 'isabel', 'josephine')
+----------------------------------
+w: sophia
+ most-similar-before: ('anna', 'lydia', 'julia')
+ most-similar-after: ('anna', 'lydia', 'maria')
+----------------------------------
+w: charlotte
+ most-similar-before: ('raleigh', 'nc', 'atlanta')
+ most-similar-after: ('raleigh', 'atlanta', 'nc')
+----------------------------------
+w: mia
+ most-similar-before: ('bella', 'mamma', 'mama')
+ most-similar-after: ('bella', 'mamma', 'che')
+----------------------------------
+w: amelia
+ most-similar-before: ('earhart', 'louisa', 'caroline')
+ most-similar-after: ('earhart', 'louisa', 'caroline')
+----------------------------------
+w: james
+ most-similar-before: ('john', 'william', 'thomas')
+ most-similar-after: ('john', 'william', 'thomas')
+----------------------------------
+w: john
+ most-similar-before: ('james', 'william', 'paul')
+ most-similar-after: ('james', 'william', 'mary')
+----------------------------------
+w: robert
+ most-similar-before: ('richard', 'william', 'james')
+ most-similar-after: ('richard', 'william', 'james')
+----------------------------------
+w: michael
+ most-similar-before: ('david', 'mike', 'brian')
+ most-similar-after: ('david', 'mike', 'brian')
+----------------------------------
+w: william
+ most-similar-before: ('henry', 'edward', 'james')
+ most-similar-after: ('henry', 'edward', 'james')
+----------------------------------
+w: david
+ most-similar-before: ('stephen', 'richard', 'michael')
+ most-similar-after: ('richard', 'stephen', 'michael')
+----------------------------------
+w: richard
+ most-similar-before: ('robert', 'william', 'david')
+ most-similar-after: ('robert', 'william', 'david')
+----------------------------------
+w: joseph
+ most-similar-before: ('francis', 'charles', 'thomas')
+ most-similar-after: ('mary', 'francis', 'charles')
+----------------------------------
+w: thomas
+ most-similar-before: ('james', 'william', 'john')
+ most-similar-after: ('james', 'william', 'john')
+----------------------------------
+w: ariel
+ most-similar-before: ('sharon', 'alexis', 'hanna')
+ most-similar-after: ('sharon', 'alexis', 'israel')
+----------------------------------
+w: mike
+ most-similar-before: ('brian', 'chris', 'dave')
+ most-similar-after: ('brian', 'chris', 'dave')
+----------------------------------
+w: nurse
+ most-similar-before: ('nurses', 'nursing', 'physician')
+ most-similar-after: ('nurses', 'nursing', 'physician')
+----------------------------------
+w: mom
+ most-similar-before: ('dad', 'mother', 'mommy')
+ most-similar-after: ('dad', 'mother', 'mommy')
+----------------------------------
+w: secretary
+ most-similar-before: ('deputy', 'minister', 'treasurer')
+ most-similar-after: ('deputy', 'minister', 'chairman')
+----------------------------------
+w: nursery
+ most-similar-before: ('preschool', 'bedding', 'nurseries')
+ most-similar-after: ('preschool', 'bedding', 'nurseries')
+----------------------------------
